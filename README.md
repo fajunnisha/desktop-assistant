@@ -2,6 +2,10 @@
 
 A Python desktop assistant built with **Tkinter** that allows users to open applications, access websites, and check the current date and time through a graphical interface.
 
+## 🖥️ GUI Preview
+
+![Desktop Assistant GUI](Desktop%20assistant%20img.jpeg)
+
 ## ✨ Features
 
 - GUI with chat area and scrollbar
